@@ -12,3 +12,5 @@ def bin_to_dec(binary_num):
     return decimal_num
 
 print(bin_to_dec(111))
+
+#edited
